@@ -1,0 +1,1 @@
+let g:html_indent_tags += '\|article\|aside\|audio\|bdi\|canvas\|command\|datalist\|details\|embed\|figcaption\|figure\|footer\|header\|hgroup\|keygen\|mark\|meter\|nav\|output\|progress\|rp\|rt\|ruby\|section\|source\|summary\|time\|track\|video\|wbr'

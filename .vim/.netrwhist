@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/dan/examtable/timetablezzzz/data/short'
+let g:netrw_dirhist_2='/home/dan/examtable/timetablezzzz/app/helpers'
+let g:netrw_dirhist_3='/home/dan/examtable/timetablezzzz/app/views/exams'
+let g:netrw_dirhist_4='/home/dan/_pygame'
