@@ -141,3 +141,7 @@ au FileType python let b:delimitMate_nesting_quotes = ['"']
 nnoremap <F9> :SidewaysLeft<cr>
 nnoremap <F10> :SidewaysRight<cr>
 
+"Very important for pasting 
+"You need to hit F2 before and after pasting, do this in insert mode
+set pastetoggle=<F2>
+
